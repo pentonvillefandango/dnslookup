@@ -10,7 +10,6 @@
 # help Function
 
 help() {
-    echo 
     echo "This script will convert a list of urls to a list of ip addresses"
     echo "Usage as follows:"
     echo

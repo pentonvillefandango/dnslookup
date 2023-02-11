@@ -18,3 +18,5 @@ added comments
 added version number
 
 ## v.1.1 WIP
+
+changes based upon ICP testing
