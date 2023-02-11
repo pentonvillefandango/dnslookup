@@ -1,4 +1,7 @@
 google.com
+yahoo.com
+ea.com
+tesco.com
 tenable.com
 itv.com
 bbc.com
