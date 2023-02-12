@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# Verson 1.0
 #This script will perform DNS lookups for all urls provided in a file as the first
 #argument. for example dnslookupparser.sh filename. 
 #
